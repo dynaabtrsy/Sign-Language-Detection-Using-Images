@@ -1,0 +1,15 @@
+Required Libraries / Packages   
+
+List the definitive program dependencies in your documentation or save them inside a text file named requirements.txt:  
+
+torch and torchvision (for the deep learning framework runtime execution environment)   
+
+ultralytics-yolov5 core repository dependencies   
+
+yaml (for dataset profile loading mapping functions)   
+
+pandas (for results matrix manipulation arrays)   
+
+matplotlib and seaborn (for rendering statistical evaluations)   
+
+opencv-python / PIL (for video stream data matrices handling)   
