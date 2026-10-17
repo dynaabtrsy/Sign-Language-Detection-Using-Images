@@ -145,17 +145,3 @@ Both prototypes were integrated into interactive Python OpenCV interfaces for li
 1. **YOLOv5s Bounding Box Interface:** Displays precise bounding boxes around detected hands with categorical label tags and calculated confidence scores (e.g., `A 0.98`).
 2. **MediaPipe 21-Knuckle Mesh Interface:** Renders an interconnected skeletal vector map directly over finger joints, performing real-time classification independent of background clutter.
 3. **Sentence Generation Logic:** Integrated text-processing script that appends recognized alphanumeric characters into words, supporting `SPACE` and `DELETE` gestures.
-
----
-
-## 👥 Project Team & Acknowledgments
-
-* **Institution:** Faculty of Information & Communication Technology, International Islamic University Malaysia (IIUM)
-* **Course:** Intelligent System (BICS 2303) — Semester 2 2025/2026
-* **Lecturer:** Asst. Prof. Dr. Dini Handayani
-* **Project Team (YOLO):**
-  * **Dayana Batrisya Binti Ramile** (Matric: 2318872) — *System Development & Experiments*
-  * **Che Nurul Liyana Binti Che Mat Noor** (Matric: 2317600) — *Data Preprocessing & Analysis*
-  * **Nur Najihah Binti Mohd Zamrisham** (Matric: 2319880) — *MediaPipe Prototype & Analysis*
-  * **Nurul Hana Binti Abdul Halim** (Matric: 2315932) — *Documentation & Conclusions*
-  * **Nurul Izzah Binti Zubli** (Matric: 2414054) — *Literature Review & Analysis*
