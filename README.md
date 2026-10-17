@@ -1,4 +1,4 @@
-# Sign Language Detection Using Images 🤟
+# Sign Language Detection Using Images 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-Ultralytics-000000?style=for-the-badge&logo=yolo)
