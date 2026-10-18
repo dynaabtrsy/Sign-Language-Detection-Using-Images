@@ -23,14 +23,14 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 ---
 
 ## Table of Contents
-- [Overview](#Overview)
-- [Executive Summary](#-2.-Executive-Summary) 
-- [Methodology](#Methodology)
-- [Key Findings](#Key-Findings)
-- [Recommendations](#Recommendations)
-- [Limitations](#Limitations)
-- [Project Impact](#Project-Impact)
-- [GUI Visualization](#GUI-Visualizationd)
+- [Overview](#-1-overview)
+- [Executive Summary](#-2-executive-summary) 
+- [Methodology](#-3-methodology)
+- [Key Findings](#-4-key-findings)
+- [Recommendations](#-5-recommendations)
+- [Limitations](#-6-limitations)
+- [Project Impact](#-7-project-impact)
+- [GUI Visualization](#-8-gui-visualizationd)
 
 ---
 
