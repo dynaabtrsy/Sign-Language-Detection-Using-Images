@@ -24,7 +24,7 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Executive Summary](#Executive-Summary) 
+- [Executive Summary](#💡-2.-Executive-Summary) 
 - [Methodology](#Methodology)
 - [Key Findings](#Key-Findings)
 - [Recommendations](#Recommendations)
