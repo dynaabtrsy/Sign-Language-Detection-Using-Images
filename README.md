@@ -28,7 +28,7 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 - [Methodology](#%EF%B8%8F-3-methodology)
 - [Key Findings](#-4-key-findings)
 - [Recommendations](#-5-recommendations)
-- [Limitations](#-6-limitations)
+- [Limitations](#%EF%B8%8F-6-limitations)
 - [Project Impact](#-7-project-impact)
 - [GUI Visualization](#-8-gui-visualizationd)
 
