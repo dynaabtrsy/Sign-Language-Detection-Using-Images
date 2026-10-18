@@ -22,6 +22,18 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 
 ---
 
+## Table of Contents
+- [Overview](#Overview)
+- [Executive Summary](#Executive-Summary) 
+- [Methodology](#Methodology)
+- [Key Findings](#Key-Findings)
+- [Recommendations](#Recommendations)
+- [Limitations](#Limitations)
+- [Project Impact](#Project-Impact)
+- [GUI Visualization](#GUI-Visualizationd)
+
+---
+
 ## 💡 2. Executive Summary
 
 * **The Core Problem:** Deep learning models for sign language often struggle with background noise, extreme lighting shifts, similar hand shapes (e.g., distinguishing 'M' vs. 'N'), and high computational overhead on edge devices.
