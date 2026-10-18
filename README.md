@@ -71,7 +71,7 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 ### Mathematical Formulation
 - **YOLOv5 Multi-Task Loss Function:**
   $$\text{Loss} = \lambda_1 L_{\text{cls}} + \lambda_2 L_{\text{obj}} + \lambda_3 L_{\text{loc}}$$
-  *Where $L_{\text{cls}}$ is Binary Cross-Entropy loss, $L_{\text{obj}}$ is objectness confidence loss, and $L_{\text{loc}}$ utilizes Complete Intersection over Union (CIoU).*
+  *Where $\lambda_1 L_{\text{cls}}$ is Binary Cross-Entropy loss, $\lambda_2 L_{\text{obj}}$ is objectness confidence loss, and $\lambda_3 L_{\text{loc}}$ utilizes Complete Intersection over Union (CIoU).*
 
 ---
 
