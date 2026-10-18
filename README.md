@@ -71,7 +71,9 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 ### Mathematical Formulation
 - **YOLOv5 Multi-Task Loss Function:**
   $$\text{Loss} = \lambda_1 L_{\text{cls}} + \lambda_2 L_{\text{obj}} + \lambda_3 L_{\text{loc}}$$
-  *Where $\lambda_1 L_{\text{cls}}$ is Binary Cross-Entropy loss, $\lambda_2 L_{\text{obj}}$ is objectness confidence loss, and $\lambda_3 L_{\text{loc}}$ utilizes Complete Intersection over Union (CIoU).*
+  * $L_{\text{cls}}$ = Binary Cross-Entropy loss
+  * $L_{\text{obj}}$ = objectness confidence loss
+  * $L_{\text{loc}}$ = utilizes Complete Intersection over Union (CIoU).
 
 ---
 
@@ -135,11 +137,15 @@ Evaluating YOLOv5s across four distinct dataset scales revealed a direct relatio
 
 ---
 
-## 📊 8. Dashboard & GUI Visualization
+## 📊 8. GUI Visualization
 
 Both prototypes were integrated into interactive Python OpenCV interfaces for live testing.
 
-🔗 **[Project Presentation & Prototype Demonstration Video](https://github.com/your-username/your-repo-name)** *(Replace with your link)*
+![image](https://github.com/user-attachments/assets/eb4bb483-d2af-4cfd-98eb-708bb345e726)
+
+*System detection interface output showing successful bounding box localization and sign 
+classification. YOLOv5 architecture profile (left) versus the improved MediaPipe 21-knuckle structural 
+landmark overlay environment (right).*
 
 ### Prototype Real-Time Execution Highlights
 1. **YOLOv5s Bounding Box Interface:** Displays precise bounding boxes around detected hands with categorical label tags and calculated confidence scores (e.g., `A 0.98`).
