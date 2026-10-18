@@ -30,7 +30,7 @@ Developed under the **Intelligent Systems (BICS 2303)** course at the **Internat
 - [Recommendations](#-5-recommendations)
 - [Limitations](#%EF%B8%8F-6-limitations)
 - [Project Impact](#-7-project-impact)
-- [GUI Visualization](#-8-gui-visualizationd)
+- [GUI Visualization](#-8-gui-visualization)
 
 ---
 
